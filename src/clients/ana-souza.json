@@ -1,0 +1,138 @@
+{
+    "niche": "psychologist",
+    "name": "Ana Souza",
+    "profession": "Psicóloga",
+    "license": "CRP 00/00000",
+    "city": "Goiânia – GO",
+    "serviceFormat": "Atendimento online e presencial",
+    "whatsapp": "5562999999999",
+    "whatsappMessage": "Olá, Ana! Vim pelo seu site e gostaria de agendar uma consulta.",
+    "instagram": "https://instagram.com/seuperfil",
+    "photo": "",
+    "seo": {
+        "title": "Ana Souza | Psicóloga em Goiânia – Terapia online e presencial",
+        "description": "Psicóloga clínica em Goiânia. Atendimento online e presencial para adultos com ansiedade, estresse e dificuldades emocionais. Agende pelo WhatsApp."
+    },
+    "colors": {
+        "brand": "#1f4b4a",
+        "brandHover": "#2f6f6b",
+        "soft": "#e8f0ee",
+        "ink": "#16302f",
+        "line": "#cfdcd9"
+    },
+    "header": {
+        "button": "Agendar consulta"
+    },
+    "hero": {
+        "title": "Um espaço seguro para cuidar do que você sente",
+        "subtitle": "Psicoterapia para adultos com foco em ansiedade, estresse e autoconhecimento. Atendimento online e presencial em Goiânia.",
+        "button": "Agendar pelo WhatsApp"
+    },
+    "painPoints": {
+        "title": "A terapia pode ajudar quando…",
+        "items": [
+            {
+                "title": "A ansiedade pesa",
+                "text": "Você sente a mente acelerada, dificuldade para relaxar ou dormir."
+            },
+            {
+                "title": "O cansaço é constante",
+                "text": "Trabalho, estudos e rotina parecem maiores do que a sua energia."
+            },
+            {
+                "title": "As relações incomodam",
+                "text": "Conflitos que se repetem com família, parceiro(a) ou amigos."
+            },
+            {
+                "title": "Falta clareza",
+                "text": "Você quer se entender melhor e tomar decisões com mais segurança."
+            }
+        ]
+    },
+    "steps": {
+        "title": "Como funciona",
+        "subtitle": "Simples, sem burocracia e no seu ritmo.",
+        "items": [
+            {
+                "title": "Você chama no WhatsApp",
+                "text": "Conte rapidamente o que te trouxe até aqui e tire suas dúvidas."
+            },
+            {
+                "title": "Agendamos a primeira sessão",
+                "text": "Escolhemos juntos o melhor dia, horário e formato: online ou presencial."
+            },
+            {
+                "title": "Começamos o acompanhamento",
+                "text": "Sessões semanais, com sigilo e respeito ao seu tempo."
+            }
+        ]
+    },
+    "about": {
+        "title": "Sobre mim",
+        "text": "Sou Ana Souza, psicóloga clínica. Acredito em uma terapia acolhedora, sem julgamentos, em que você é protagonista do próprio processo. Atendo adultos em abordagem [abordagem, ex.: Terapia Cognitivo-Comportamental].",
+        "credentials": [
+            "Graduação em Psicologia – [Universidade]",
+            "Especialização em [área]",
+            "CRP 00/00000"
+        ]
+    },
+    "services": {
+        "title": "Áreas de atuação",
+        "items": [
+            {
+                "title": "Ansiedade e estresse",
+                "text": "Estratégias para lidar com preocupação e tensão no dia a dia."
+            },
+            {
+                "title": "Autoconhecimento",
+                "text": "Entender seus padrões, valores e escolhas."
+            },
+            {
+                "title": "Relacionamentos",
+                "text": "Comunicação, limites e vínculos mais saudáveis."
+            },
+            {
+                "title": "Transições de vida",
+                "text": "Mudanças de carreira, luto, novas fases."
+            }
+        ]
+    },
+    "gallery": {
+        "title": "Conheça o espaço",
+        "items": []
+    },
+    "testimonials": {
+        "title": "O que dizem os pacientes",
+        "items": []
+    },
+    "faq": {
+        "title": "Dúvidas frequentes",
+        "items": [
+            {
+                "question": "Como funciona a primeira sessão?",
+                "answer": "É um momento de acolhimento: você conta sua história e o que busca, e conversamos sobre como o processo pode caminhar."
+            },
+            {
+                "question": "O atendimento é online ou presencial?",
+                "answer": "Os dois formatos estão disponíveis. Você escolhe o que for melhor para a sua rotina."
+            },
+            {
+                "question": "Quanto tempo dura cada sessão?",
+                "answer": "Em média, 50 minutos, com frequência combinada entre nós (geralmente semanal)."
+            },
+            {
+                "question": "Qual o valor da sessão?",
+                "answer": "Os valores são informados diretamente pelo WhatsApp. Fale comigo para saber mais."
+            },
+            {
+                "question": "As conversas são sigilosas?",
+                "answer": "Sim. O sigilo profissional é garantido pelo Código de Ética do Psicólogo."
+            }
+        ]
+    },
+    "finalCta": {
+        "title": "Dar o primeiro passo já é cuidar de você",
+        "text": "Se quiser conversar, é só chamar. Respondo o mais breve possível.",
+        "button": "Falar no WhatsApp"
+    }
+}
